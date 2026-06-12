@@ -1,0 +1,7 @@
+{
+  "name": "Aria - Daily Journal AI",
+  "description": "A privacy-first, daily conversational AI companion that remembers you. Stores all data locally.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
