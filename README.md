@@ -1,4 +1,6 @@
-# ARIA — AI-Enhanced Responsive Intelligent Assistant
+# ARIA — Private, Journal Based, AI-Enhanced Personal Assistant
+
+<img src="docs/aria-ai-logo.svg" alt="ARIA AI logo" width="650">
 
 ### A privacy-conscious, journal-based AI companion for conversations, memory, and task management.
 
@@ -12,31 +14,6 @@
 
 > ARIA is a full-stack AI journaling and personal productivity assistant that combines daily conversations, long-term memory, task management, and searchable journal sessions in one focused interface.
 
----
-
-## Demo
-
-<!-- Replace the placeholder below with a screenshot uploaded to the repository. -->
-
-<p align="center">
-  <img src="docs/demo-screenshot.png" alt="ARIA application demo screenshot" width="900" />
-</p>
-
-<details>
-<summary><strong>How to add the demo screenshot</strong></summary>
-
-1. Create a directory named `docs/` in the repository.
-2. Upload your screenshot as `docs/demo-screenshot.png`.
-3. Keep the image reasonably compressed so the README loads quickly.
-4. Commit the image and this README.
-
-You can also replace the image path with an externally hosted image URL if preferred.
-
-</details>
-
-> **Suggested screenshot:** Show the chat interface, calendar/session navigation, task panel, and dark-mode interface in one clear image.
-
----
 
 ## Contents
 
@@ -582,32 +559,17 @@ For production deployments, consider adding:
 
 ## Screenshots and Product Media
 
-Use this section to showcase the project as it evolves.
-
-### Main chat interface
+### Main Chat Interface
 
 ![ARIA chat interface](docs/demo-screenshot.png)
 
-### Additional screenshots
+### Chat Search Interface
 
-Add future screenshots under `docs/`, for example:
+![ARIA chat interface](docs/chat_search.png)
 
-```text
-docs/
-├── demo-screenshot.png
-├── tasks-view.png
-├── calendar-view.png
-├── settings-view.png
-└── mobile-layout.png
-```
+### Settings and Data Interface
 
-Then reference them using standard Markdown:
-
-```markdown
-![Tasks view](docs/tasks-view.png)
-```
-
----
+![ARIA chat interface](docs/tasks-view.png)
 
 ## Project Status
 
