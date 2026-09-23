@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">ARIA AI logo</title>
+  <desc id="desc">A modern blue and violet logo for ARIA AI, an AI-enhanced personal assistant.</desc>
+
+  <defs>
+    <linearGradient id="brand" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="55%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#9333EA"/>
+    </linearGradient>
+
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow
+        dx="0"
+        dy="12"
+        stdDeviation="14"
+        flood-color="#312E81"
+        flood-opacity="0.22"
+      />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="72" fill="#F8FAFC"/>
+
+  <circle cx="180" cy="180" r="112" fill="url(#brand)" filter="url(#shadow)"/>
+
+  <!-- Abstract A symbol -->
+  <path
+    d="M180 92 112 252h34l15-38h38l15 38h34L180 92Zm0 55 12 35h-24l12-35Z"
+    fill="#FFFFFF"
+  />
+
+  <circle
+    cx="180"
+    cy="180"
+    r="89"
+    fill="none"
+    stroke="url(#glow)"
+    stroke-width="3"
+    opacity="0.8"
+  />
+
+  <path
+    d="M106 112c-17 19-27 43-27 68 0 56 45 101 101 101 25 0 48-9 66-24"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="5"
+    stroke-linecap="round"
+    opacity="0.78"
+  />
+
+  <circle cx="269" cy="257" r="8" fill="#C084FC"/>
+
+  <text
+    x="340"
+    y="188"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="108"
+    font-weight="800"
+    letter-spacing="8"
+    fill="#0F172A"
+  >
+    ARIA
+  </text>
+
+  <text
+    x="350"
+    y="250"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="43"
+    font-weight="600"
+    letter-spacing="13"
+    fill="url(#brand)"
+  >
+    AI ASSISTANT
+  </text>
+
+  <path
+    d="M350 278h540"
+    stroke="url(#brand)"
+    stroke-width="5"
+    stroke-linecap="round"
+    opacity="0.5"
+  />
+</svg>
