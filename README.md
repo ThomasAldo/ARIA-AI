@@ -1,6 +1,8 @@
 # ARIA — Private, Journal Based, AI-Enhanced Personal Assistant
 
-<img src="docs/aria-ai-logo.svg" alt="ARIA AI logo" width="650">
+<p align="center">
+  <img src="docs/aria-ai-logo.svg" alt="ARIA AI logo" width="650">
+</p>
 
 ### A privacy-conscious, journal-based AI companion for conversations, memory, and task management.
 
